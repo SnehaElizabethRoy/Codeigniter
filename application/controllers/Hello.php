@@ -5,7 +5,7 @@ class Hello extends CI_Controller {
       
     public function index()  
     {  
-        $this->load->view('hey world');  
+        $this->load->view('hey wo2525252rld');  
     }  
 }  
 ?>  
